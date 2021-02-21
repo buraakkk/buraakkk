@@ -1,7 +1,6 @@
 ## Hey 👋, This is Burak 
-[![Gmail Badge](https://img.shields.io/badge/-isikburak142@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:isikburak142@gmail.com)](mailto:isikburak142@gmail.com) 
-[![Linkedin Badge](https://img.shields.io/badge/-burak-işik-04a354183-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://)](https://www.linkedin.com/in/burak-işik-04a354183/) 
-[![Github Badge](https://img.shields.io/badge/-buraakkk-grey?style=flat&logo=github&logoColor=white&link=https://github.com/buraakkk/)](https://www.github.com/buraakkk/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://github.com/buraakkk/)](https://github.com/buraakkk/) 
+**Get in touch:**
+[![Linkedin Badge](https://img.shields.io/badge/-burak-işik-04a354183-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/burak-işik-04a354183/)](https://www.linkedin.com/in/burak-işik-04a354183/) [![Github Badge](https://img.shields.io/badge/-buraakkk-grey?style=flat&logo=github&logoColor=white&link=https://github.com/buraakkk/)](https://www.github.com/buraakkk/) ![Profile views](https://gpvc.arturio.dev/buraakkk)
 
 <p align='left'>Full Stack Developer with 1 year of hands-on-experience designing, developing and implementing applications and solutions using a range of technologies and programming languages. Seeking to leverage broad development experience and hands-on technical expertise in a challenging role as a Full-stack Developer.
 
