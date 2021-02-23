@@ -2,7 +2,7 @@
 
 # Hello, This is Burak! 
 
-Full Stack Developer with 1 year of hands-on-experience designing, developing and implementing applications and solutions using a range of technologies and programming languages. Seeking to leverage broad development experience and hands-on technical expertise in a challenging role as a Full-stack Developer. You can find me on on [![LinkedIn][3.2]][3].
+Full Stack Developer with 1 year of hands-on-experience designing, developing and implementing applications and solutions using a range of technologies and programming languages. Seeking to leverage broad development experience and hands-on technical expertise in a challenging role as a Full-stack Developer. You can find me on on [![LinkedIn][3.2]][3] and my own website [![Burak's page][4].
 
 
 ## 🔧 Technologies & Tools
@@ -25,7 +25,7 @@ Full Stack Developer with 1 year of hands-on-experience designing, developing an
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=buraakkk&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Burak's GitHub Stats" />
 </a>
 
-  https://buraakkk.github.io/HYF-Module-HTMLCSSGIT/week1/basic.html
+  
 
 
 
@@ -45,6 +45,7 @@ Full Stack Developer with 1 year of hands-on-experience designing, developing an
 
 [2]: https://github.com/buraakkk
 [3]: https://www.linkedin.com/in/burak-işik-04a354183/
+[4]: https://buraakkk.github.io/HYF-Module-HTMLCSSGIT/week1/basic.html
 
 
 <!-- Resources -->
