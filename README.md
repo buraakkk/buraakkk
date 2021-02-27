@@ -1,57 +1,49 @@
+<p align="center">
+ <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="Github Readme Stats" />
+ <h2 align="center">Profile</h2>
+</p>
+
+### Hi there 👋 I'm [Anand K. Mainali](https://anandmainali.com.np)
+> Software Engineer at [SoftNEP](https://softnep.com)
 
 
-# Hello, This is Burak! 
+<img src="https://komarev.com/ghpvc/?username=anandmainali" alt="anandmainali" />
 
-Full Stack Developer with 1 year of hands-on-experience designing, developing and implementing applications and solutions using a range of technologies and programming languages. Seeking to leverage broad development experience and hands-on technical expertise in a challenging role as a Full-stack Developer. You can find me on on [![LinkedIn][3.2]][3].
+<div>
+ <p>
+I am Mid-level Web developer able to build a Web presence from the ground up - from concept, navigation, layout and programming. Skilled at writing well-designed, testable and efficient code using current best practices in Web development. Fast learner, hard worker and team player who is proficient in an array of scripting languages and multimedia Web tools.
 
+I have excellent design & coding skills, as well as an ability to convert requirements into exciting online applications.
+</p>
+</div>
 
-## 🔧 Technologies & Tools
+### Programming Languages 🌐
 
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=HTML&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=CSS&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-VS-Studio-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" alt="Laravel" width="24">](https://laravel.com/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="php" width="38">](https://php.net/)  | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="Vue" width="24">](https://vuejs.org/)  |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap" width="24">](https://getbootstrap.com/) |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="jQuery" width="24">](https://jquery.com/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" alt="jQuery" width="24">](https://jquery.com/)
+|---|---|---|---|---|---|
+ 
+### Tools 🛠️
 
+| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="mysql" width="24">](https://www.mysql.com/) |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" alt="firebase" width="24">](https://firebase.google.com/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" width="24">](https://git-scm.com/) |  [<img src="https://logonoid.com/images/phpstorm-logo.png" alt="Phpstorm" width="24">](https://www.jetbrains.com/phpstorm/) | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png" alt="vscode" width="24">](https://code.visualstudio.com/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" alt="Ubuntu" width="24">](https://ubuntu.com/)  |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png" alt="Redis" width="24">](https://redis.io/) | Varnish Cache | many more...
+|---|---|---|---|---|---|---|---|---|
 
+### Github Stats
 
-## &#x1f4c8; GitHub Stats
+[![Anand K. Mainali GitHub Stats](https://github-readme-stats.vercel.app/api?username=anandmainali&show_icons=true&count_private=true)](https://github.com/anandmainali)
 
-<a href="https://github.com/buraakkk/BurakISIK">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buraakkk&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<a href="https://github.com/buraakkk/BurakISIK">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=buraakkk&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Burak's GitHub Stats" />
-</a>
+### Github Repos
 
-  
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anandmainali&repo=PackageTemplate&show_owner=true)](https://github.com/anandmainali/PackageTemplate)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anandmainali&repo=Foods-Ecommerce&show_owner=true)](https://github.com/anandmainali/Foods-Ecommerce)
 
+<h3> 🤝🏻 Connect with Me </h3>
 
-
-<!-- icons with padding -->
-
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
-
-<!-- icons without padding -->
-
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
-[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+<p align="center">
+<a href="https://www.anandmainali.com.np" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-www.anandmainali.com.np-blue?style=flat&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/anandmainali/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@anandmainali-blue?style=flat&logo=linkedin"></a>
+<a href="https://stackoverflow.com/users/8519896/anand-mainali?tab=profile" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stackoverflow-Anand%20Mainali-blue?style=flat&logo=stackoverflow"></a>
+<a href="mailto:anandmainali5@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-anandmainali5@gmail.com-blue?style=flat&logo=gmail"></a>
+</p>
 
 
-<!-- links to your social media accounts -->
-
-[2]: https://github.com/buraakkk
-[3]: https://www.linkedin.com/in/burak-işik-04a354183/
-[4]: https://buraakkk.github.io/HYF-Module-HTMLCSSGIT/week1/basic.html
-
-
-<!-- Resources -->
-<!-- Icons: https://simpleicons.org/ -->
-<!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
-<!-- Emojis: https://emojipedia.org/emoji/ -->
-<!-- HTML Emojis: https://www.fileformat.info/index.htm -->
-<!-- Shields: https://shields.io/ -->
-<!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
+⭐️ From [@anandmainali](https://github.com/anandmainali)
