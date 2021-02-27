@@ -33,7 +33,7 @@ Energetic Full Stack Web Developer ‘in love’ with JavaScript. For me, web de
 <a href="https://github.com/buraakkk/BurakISIK">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=buraakkk&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Burak's GitHub Stats" />
 </a>
-![image](https://user-images.githubusercontent.com/50028862/109382537-4c6b3080-78e1-11eb-90d1-572bf5696b2a.png)
+
 
 
 
@@ -41,8 +41,8 @@ Energetic Full Stack Web Developer ‘in love’ with JavaScript. For me, web de
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/burak-işik-04a354183/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@anandmainali-blue?style=flat&logo=linkedin"></a>
-<a href="mailto:isikburak142@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-anandmainali5@gmail.com-blue?style=flat&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/burak-işik-04a354183/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@burak-isik-blue?style=flat&logo=linkedin"></a>
+<a href="mailto:isikburak142@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-isikburak142@gmail.com-blue?style=flat&logo=gmail"></a>
 </p>
 
 
