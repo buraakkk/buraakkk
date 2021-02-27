@@ -41,7 +41,7 @@ Energetic Full Stack Web Developer ‘in love’ with JavaScript. For me, web de
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/anandmainali/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@anandmainali-blue?style=flat&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/burak-işik-04a354183/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:isikburak142@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-isikburak142@gmail.com-blue?style=flat&logo=gmail"></a>
 </p>
 
