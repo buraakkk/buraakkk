@@ -3,17 +3,15 @@
  <h2 align="center">Profile</h2>
 </p>
 
-### Hi there 👋 I'm [Anand K. Mainali](https://anandmainali.com.np)
-> Software Engineer at [SoftNEP](https://softnep.com)
+### Hi there 👋 I'm [Burak ISIK](https://buraakkk.github.io/HYF-Module-HTMLCSSGIT/week1/basic.html)
+> Candidate of Full Stack Developer at [Hackyourfuture](https://www.hackyourfuture.net)
 
 
 <img src="https://komarev.com/ghpvc/?username=anandmainali" alt="anandmainali" />
 
 <div>
  <p>
-I am Mid-level Web developer able to build a Web presence from the ground up - from concept, navigation, layout and programming. Skilled at writing well-designed, testable and efficient code using current best practices in Web development. Fast learner, hard worker and team player who is proficient in an array of scripting languages and multimedia Web tools.
-
-I have excellent design & coding skills, as well as an ability to convert requirements into exciting online applications.
+Energetic Full Stack Web Developer ‘in love’ with JavaScript. For me, web development is more than just writing code. Is to communicate and work well with others in a team, to be curious and open to criticism and different approaches, to solve problems and to never stop learning. I'm currently looking for an opportunity to continue doing what I love, in a challenging but friendly environment.
 </p>
 </div>
 
@@ -29,21 +27,23 @@ I have excellent design & coding skills, as well as an ability to convert requir
 
 ### Github Stats
 
-[![Anand K. Mainali GitHub Stats](https://github-readme-stats.vercel.app/api?username=anandmainali&show_icons=true&count_private=true)](https://github.com/anandmainali)
+<a href="https://github.com/buraakkk/BurakISIK">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buraakkk&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/buraakkk/BurakISIK">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=buraakkk&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Burak's GitHub Stats" />
+</a>
+![image](https://user-images.githubusercontent.com/50028862/109382537-4c6b3080-78e1-11eb-90d1-572bf5696b2a.png)
 
-### Github Repos
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anandmainali&repo=PackageTemplate&show_owner=true)](https://github.com/anandmainali/PackageTemplate)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anandmainali&repo=Foods-Ecommerce&show_owner=true)](https://github.com/anandmainali/Foods-Ecommerce)
+
 
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.anandmainali.com.np" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-www.anandmainali.com.np-blue?style=flat&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/anandmainali/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@anandmainali-blue?style=flat&logo=linkedin"></a>
-<a href="https://stackoverflow.com/users/8519896/anand-mainali?tab=profile" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stackoverflow-Anand%20Mainali-blue?style=flat&logo=stackoverflow"></a>
-<a href="mailto:anandmainali5@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-anandmainali5@gmail.com-blue?style=flat&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/burak-işik-04a354183/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@anandmainali-blue?style=flat&logo=linkedin"></a>
+<a href="mailto:isikburak142@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-anandmainali5@gmail.com-blue?style=flat&logo=gmail"></a>
 </p>
 
 
-⭐️ From [@anandmainali](https://github.com/anandmainali)
+⭐️ From [@Burak](https://github.com/buraakkk)
