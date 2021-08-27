@@ -9,7 +9,11 @@ Skills: VUE JS / REACT / JS / HTML / CSS / Python / Java / Machine Learning / SA
 - 🔭 I’m currently working on HackYourFuture 
 - 🌱 I’m currently learning Javascript 
 - 💬 Ask me about anything 
-
+🔭 Since the beginning of 2021, I have joined to HackYourFuture coding school.!
+🌱 I’m currently learning everything 😀
+👯 I’m looking to collaborate with other content creators
+🥅 2021 Goals: Contribute more to Open Source projects
+⚡ I'm looking forward to developing on a personal level
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/buraakkk)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/burak-işik-04a354183/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/buraakisk/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/buraakkk)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://buraakkk.github.io/HYF-Module-HTMLCSSGIT/week1/basic.html)  
 
