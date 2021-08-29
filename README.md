@@ -20,7 +20,7 @@ Skills: VUE JS / REACT / JS / HTML / CSS / Python / Java / Machine Learning / SA
 
 
 
-![GitHub metrics](https://metrics.lecoq.io/buraakkk)  
+
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=buraakkk)  
 
