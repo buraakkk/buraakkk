@@ -4,7 +4,7 @@
 
 Energetic Full Stack Web Developer ‘in love’ with JavaScript. For me, web development is more than just writing code. Is to communicate and work well with others in a team, to be curious and open to criticism and different approaches, to solve problems and to never stop learning. I'm currently looking for an opportunity to continue doing what I love, in a challenging but friendly environment.I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-Skills: VUE JS / REACT / JS / HTML / CSS / Python / Java / Machine Learning / SAP MM
+Skills:REACT / JS / HTML / CSS / Python / Java / Machine Learning / SAP MM
 
 - 🔭 I’m currently working on HackYourFuture 
 - 🌱 I’m currently learning Javascript 
